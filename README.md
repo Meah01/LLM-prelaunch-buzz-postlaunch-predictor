@@ -15,11 +15,11 @@ The system collects pre-launch Reddit discussions and post-launch reviews from m
 - Data processing: Syn-Chain prompting, ETL pipelines, Ollama 
 
 ### Data
-The system uses scrapped Reddit discussions and Amazon reviews (meta + reviews) of phones and electronics (made available by McAuley lab, 2023)[https://amazon-reviews-2023.github.io]. 
+The system uses scrapped Reddit discussions and Amazon reviews (meta + reviews) of phones and electronics (made available by [McAuley lab, 2023](https://amazon-reviews-2023.github.io)). 
 
 ### LLM & prompting
 - The system uses an open-source LLM (still to be decided) used via Ollama to process the reviews. 
-- For prompting, the system uses Syn-Chain, developed by Fan et al. (2025) for ABSA.
+- For prompting, the system uses Syn-Chain, developed by [Fan et al. (2025)](https://aclanthology.org/2025.coling-main.210/) for ABSA.
 - The sentiment of individual features and overall products are collected and stored for regression.
 
 ### Regression
