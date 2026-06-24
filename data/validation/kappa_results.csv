@@ -1,0 +1,5 @@
+task,kappa,n,threshold,pass
+Overall sentiment (IV1 / DV),0.7125,280,0.7,True
+Feature mentioned (IV2 / DV),0.917,280,0.7,True
+Feature sentiment (IV2 / DV),0.8271,280,0.7,True
+Competitor mention (IV3),0.7999,280,0.7,True

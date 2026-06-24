@@ -1,0 +1,7 @@
+Hypothesis,Description,b,p,sig,Direction,Verdict
+H1,IV1 -> DV (overall sentiment),2.3797,0.0342,*,positive,Supported
+H2,IV2 -> DV (feature expectation intensity),-2.0084,0.4552,n.s.,negative,Not supported
+H3,IV3 -> DV (competitor frequency),0.522,0.5417,n.s.,positive,Not supported
+H4a,IV1 x ProductType interaction,,,n.s.,—,Not supported
+H4b,IV2 x ProductType interaction,,,n.s.,—,Not supported
+H4c,IV3 x ProductType interaction,,,n.s.,—,Not supported

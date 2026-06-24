@@ -1,0 +1,14 @@
+product_event,product_name,brand,launch_date,product_type
+ipad_pro_2018,iPad Pro 2018,Apple,07/11/2018,1
+ipad_air_m1,iPad Air M1,Apple,18/03/2022,1
+galaxy_s6,Samsung Galaxy S6,Samsung,10/04/2015,1
+galaxy_s20_fe,Samsung Galaxy S20 FE,Samsung,02/10/2020,1
+galaxy_s22_ultra,Samsung Galaxy S22 Ultra,Samsung,25/02/2022,1
+lg_g3,LG G3,LG,18/07/2014,1
+moto_g_fast,Moto G Fast,Motorola,18/06/2020,0
+pixel_3a,Google Pixel 3a,Google,07/05/2019,0
+pixel_4a,Google Pixel 4a,Google,20/08/2020,0
+galaxy_tab_s2,Galaxy Tab S2,Samsung,21/08/2015,0
+moto_g_3rd_gen,Moto G3,Motorola,28/07/2015,0
+ipad_air_2,iPad Air 2,Apple,22/10/2014,1
+galaxy_s21_ultra,Samsung Galaxy S21 Ultra,Samsung,29/01/2021,1
