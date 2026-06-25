@@ -19,7 +19,7 @@ This repository contains the full data pipeline, LLM extraction code, and modell
 | Role | Variable | Description |
 |------|----------|-------------|
 | IV1 | Anticipatory Sentiment | Mean overall sentiment of pre-launch Reddit posts (event-level) |
-| IV2 | Feature Expectation Intensity | Mention rate × conditional sentiment per feature (feature-level) |
+| IV2 | Weighted Feature Sentiment | Mention rate × conditional sentiment per feature (feature-level) |
 | IV3 | Competitor Comparison Frequency | Proportion of pre-launch posts co-mentioning a rival brand (event-level) |
 | DV | Post-Launch Feature Sentiment | Mean LLM-extracted feature sentiment from Amazon reviews (feature-level) |
 | Moderator | Product Type | Binary: 1 = hedonic, 0 = utilitarian (event-level) |
