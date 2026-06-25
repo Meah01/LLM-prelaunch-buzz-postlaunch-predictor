@@ -128,7 +128,7 @@ events.csv
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/LLM-prelaunch-buzz-postlaunch-predictor.git
+git clone https://github.com/<Meah01>/LLM-prelaunch-buzz-postlaunch-predictor.git
 cd LLM-prelaunch-buzz-postlaunch-predictor
 
 # Create and activate virtual environment (Anaconda)
